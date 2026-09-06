@@ -2,7 +2,27 @@
 
 > **AI-Powered B2B Market Intelligence & Sales Prospecting Grounded in Real Manufacturing Data**
 
-ManufactureIQ is a modern, enterprise-grade B2B intelligence platform designed specifically for industrial and manufacturing sales teams. By combining **Google Gemini 2.5 Flash** with real-time **Google Search Grounding**, ManufactureIQ identifies, scores, and delivers verified manufacturing accounts, active buying signals, plant locations, and executive outreach angles—eliminating cold-call guesswork and phantom leads.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ManufactureIQ%20Cloud%20App-0D9488?style=for-the-badge&logo=google-cloud&logoColor=white)](https://ais-pre-5oxzqiw2vopx5jniufivod-606363115426.asia-east1.run.app)
+[![Tech Stack](https://img.shields.io/badge/Stack-React%2019%20%7C%20Tailwind%20v4%20%7C%20Gemini%202.5%20Flash-0F172A?style=for-the-badge)](https://ais-pre-5oxzqiw2vopx5jniufivod-606363115426.asia-east1.run.app)
+
+🌐 **Live Application URL**: [https://ais-pre-5oxzqiw2vopx5jniufivod-606363115426.asia-east1.run.app](https://ais-pre-5oxzqiw2vopx5jniufivod-606363115426.asia-east1.run.app)
+
+---
+
+### 🌐 GitHub Repository About Section Setup
+To display this live website in the **About** section on the right side of your GitHub repository:
+1. Go to your GitHub repository main page.
+2. Click the ⚙️ **gear icon** next to **About** (on the right sidebar).
+3. In the **Website** field, paste:
+   ```text
+   https://ais-pre-5oxzqiw2vopx5jniufivod-606363115426.asia-east1.run.app
+   ```
+4. In the **Description** field, paste:
+   ```text
+   AI-powered B2B market intelligence platform discovering, scoring, and ranking manufacturing sales prospects with Google Search grounding.
+   ```
+5. Add topics: `b2b-sales`, `gemini-api`, `react19`, `tailwindcss`, `market-intelligence`, `lead-generation`, `manufacturing`.
+6. Click **Save changes**.
 
 ---
 
