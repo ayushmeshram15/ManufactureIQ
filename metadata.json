@@ -1,0 +1,7 @@
+{
+  "name": "ManufactureIQ",
+  "description": "B2B market-intelligence platform discovering, scoring, and ranking manufacturing sales prospects with Google Search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
